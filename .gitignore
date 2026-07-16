@@ -1,0 +1,26 @@
+# Model checkpoints (distribute via GitHub Release instead)
+*.pt
+*.pth
+*.onnx
+
+# Dataset (see README for source link — not redistributed here)
+data/
+Test data to work on/
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
