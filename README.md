@@ -95,6 +95,8 @@ licensed CC-BY-4.0. Please cite the source if you use it:
 The pretrained checkpoint (`pretrained_unet.pt`, ~7.5MB) is available as
 a [GitHub Release](../../releases) asset rather than committed directly,
 to keep the repo lightweight to clone.
+Here is the release link for the .pt that was trained using the DIC Crack4 Dataset :
+https://github.com/Shazin157/Wall_Crack_Detector/releases/tag/v1.0.0
 
 ## Files
 
